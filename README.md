@@ -1,4 +1,4 @@
-Como Funcionam os Testes
+# Como Funcionam os Testes
 Os testes estão localizados na pasta tests, onde cada arquivo de teste corresponde a uma função ou algoritmo implementado no projeto. Cada teste é projetado para garantir que as saídas das funções estejam de acordo com os resultados esperados. Aqui estão os tipos de testes incluídos:
 
 Somatório: Verifica se a soma de uma lista de números está correta.
